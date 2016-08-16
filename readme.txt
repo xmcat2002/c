@@ -11,4 +11,11 @@ k li
 
 
 idfdthe 
-the ne file f
+B
+C=new dev
+the ne file 
+dev
+kok
+
+my new
+f
